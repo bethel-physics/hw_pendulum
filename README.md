@@ -15,7 +15,7 @@ Homework for Garcia Ch. 2, pendulum
 
 ## Problem 1 (in class)<a name="2"></a>
 
-Modify the a MATLAB program <tt>pendul.m</tt> such that it includes the option to use the Leap-Frog method. Compare the results for the different methods for a simulation of 300 steps with a time step size of 0.1 sec.
+Modify the MATLAB program <tt>pendul.m</tt> such that it includes the option to use the Leap-Frog method. Compare the results for the different methods for a simulation of 300 steps with a time step size of 0.1 sec.
 
 ## Problem 2 (in class)<a name="3"></a>
 
