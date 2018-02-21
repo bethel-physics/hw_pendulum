@@ -19,7 +19,9 @@ Modify the MATLAB program <tt>pendul.m</tt> such that it includes the option to 
 
 ## Problem 2 (in class)<a name="3"></a>
 
-Modify pendul.m to display your results for *θ* vs. *t*, *ω* vs. *t*, and *ω* vs. *θ* as subplots similar to the format shown below, and add an update for the angular velocity (*ω*) for the Verlet method.
+Modify pendul.m so that the angular velocity is updated at each step when using the Verlet method. Display your results for *θ* vs. *t*, *ω* vs. *t*, and *ω* vs. *θ* as subplots similar to the format shown below.  
+
+![Problem 2](HW5_verlet.png)
 
 Comment: The figure was produced running 1000 time steps with the Verlet method, for *θ*<sub>0</sub> = 160° and with a time step size of *τ* = 0.1 sec. 
 
